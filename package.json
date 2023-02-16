@@ -1,0 +1,18 @@
+{
+  "name": "botSuprema",
+  "version": "1.0.0",
+  "description": "Bot Envio e Recebimento de fichas Suprema Poker",
+  "main": "server.js",
+  "author": "Jean Carlos Coelho",
+  "license": "MIT",
+  "dependencies": {
+    "adbkit": "^2.11.1",
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "child_process": "^1.0.2",
+    "jimp": "^0.16.1",
+    "node-tesseract-ocr": "^2.2.1",
+    "sharp": "^0.30.4",
+    "util": "^0.12.4"
+  }
+}
